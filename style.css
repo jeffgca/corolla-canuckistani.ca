@@ -459,7 +459,7 @@ ul.menu li ul.menu {
 }
 .node:last-child {
   border-bottom: none;
-  margin-bottom: 0;
+  margin-bottom: 30px;
   padding-bottom: 0;
 }
 .term-listing-heading + .node {
